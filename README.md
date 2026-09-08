@@ -64,3 +64,7 @@ pnpm test:e2e
 ```sh
 pnpm lint
 ```
+
+# backend
+
+Python flask
